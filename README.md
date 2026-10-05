@@ -36,7 +36,7 @@
 
 &nbsp;
 
-_Keeping DEV, QA, and OPS moving in the same direction so nothing falls through the cracks _
+Keeping DEV, QA, and OPS moving in the same direction so nothing falls through the cracks
 
 &nbsp;
 
@@ -66,7 +66,7 @@ with a focus on GxP-compliant system implementations in life sciences. At Optel 
 owned the full release lifecycle for serialization middleware across global pharma clients<br>
 including [Baxter, Teva, Almac, and Thermo Fisher](https://www.linkedin.com/in/varsha-lalam-92b243175)<br>
 across EMEA and APAC. PRINCE2® Agile Practitioner certified. Deepening expertise<br>
-in Veeva Quality Cloud, validation frameworks, and SaaS delivery in regulated environments.
+validation frameworks, and SaaS delivery in regulated environments.
 
 ---
 
