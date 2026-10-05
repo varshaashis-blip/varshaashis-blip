@@ -32,15 +32,15 @@
 
 &nbsp;
 
-**Varsha Lalam** &nbsp;·&nbsp; <samp>it project manager · pharma & life sciences delivery</samp>
+**Varsha Lalam** &nbsp;·&nbsp; <samp>IT PROJECT MANAGER · PHARMA & LIFESCIENCE DELIVERY</samp>
 
 &nbsp;
 
-_keeping dev, qa, and ops moving in the same direction so nothing falls through the gap_
+_Keeping DEV, QA, and OPS moving in the same direction so nothing falls through the cracks _
 
 &nbsp;
 
-[linkedin](https://www.linkedin.com/in/varsha-lalam-92b243175) &nbsp;·&nbsp; [email](mailto:varsha.ashis@gmail.com)
+[Linkedin](https://www.linkedin.com/in/varsha-lalam-92b243175) &nbsp;·&nbsp; [Email](mailto:varsha.ashis@gmail.com)
 
 </div>
 
@@ -63,7 +63,7 @@ Structure and transparency are not overhead — they are how delivery actually w
 
 Currently transitioning from in-house pharma IT delivery into enterprise software consulting,<br>
 with a focus on GxP-compliant system implementations in life sciences. At Optel Group,<br>
-owned the full release lifecycle for serialisation middleware across global pharma clients<br>
+owned the full release lifecycle for serialization middleware across global pharma clients<br>
 including [Baxter, Teva, Almac, and Thermo Fisher](https://www.linkedin.com/in/varsha-lalam-92b243175)<br>
 across EMEA and APAC. PRINCE2® Agile Practitioner certified. Deepening expertise<br>
 in Veeva Quality Cloud, validation frameworks, and SaaS delivery in regulated environments.
@@ -80,8 +80,8 @@ in Veeva Quality Cloud, validation frameworks, and SaaS delivery in regulated en
 </svg>
 </div>
 
-**[Serialisation Middleware Delivery — Optel Group](https://github.com/varshaashis-blip)** &nbsp;·&nbsp; <samp>python, powershell, yaml, jira, confluence, servicenow</samp><br>
-End-to-end release management for GxP-compliant serialisation middleware across global<br>
+**[Serialization Middleware Delivery — Optel Group](https://github.com/varshaashis-blip)** &nbsp;·&nbsp; <samp>python, powershell, yaml, jira, confluence, servicenow</samp><br>
+End-to-end release management for GxP-compliant serialization middleware across global<br>
 pharma clients. 30+ governed production releases. Zero major post-release incidents over five years.
 
 **[Data Integration Pipeline — EMICO Norway](https://github.com/varshaashis-blip)** &nbsp;·&nbsp; <samp>mulesoft, oracle, sql, xml, csv</samp><br>
