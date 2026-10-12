@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-<img src="./hd-about.svg" width="620" alt="About"/>
+<img src="./hd-about-2.svg" width="620" alt="About"/>
 </div>
 
 <blockquote>
@@ -22,7 +22,7 @@ Currently moving from in-house pharma IT delivery into enterprise software consu
 lifecycle of [serialization middleware](https://github.com/varshaashis-blip) for global pharma clients across EMEA and APAC. PRINCE2® Agile Practitioner certified, and now deepening my work in validation frameworks and SaaS delivery in regulated environments.
 
 <div align="center">
-<img src="./hd-projects.svg" width="620" alt="Projects"/>
+<img src="./hd-projects-2.svg" width="620" alt="Projects"/>
 </div>
 
 **[Serialization Middleware Delivery, Optel Group](https://github.com/varshaashis-blip)** &nbsp;·&nbsp; < samp> Python, PowerShell, YAML, JIRA, Confluence, Servicenow</samp><br>
