@@ -25,13 +25,13 @@ At Optel Group, I owned the full release lifecycle of [serialisation middleware]
 </div>
 
 **[Serialisation Middleware Delivery, Optel Group](https://github.com/varshaashis-blip)** &nbsp;·&nbsp; <samp>Python, PowerShell, YAML, Jira, ServiceNow, Grafana, Prometheus</samp><br>
-Owned releases for GxP-compliant serialisation middleware across global pharma clients.30+ governed production releases, zero major post-release incidents in five years.
+Owned releases for GxP-compliant serialisation middleware across global pharma clients. 30+ governed production releases, zero major post-release incidents in five years.
 
 **[Application Delivery Support, Pfizer (Infosys)](https://github.com/varshaashis-blip)** &nbsp;·&nbsp; <samp>Incident Management, L1 to L3 support, SLA Governance, Release Support</samp><br>
-Release and service support for 15+ business-critical applications in a global pharma setting.Led L3 triage to cut P1 and P2 resolution times and backed 8+ system upgrades on schedule.
+Release and service support for 15+ business-critical applications in a global pharma setting. Led L3 triage to cut P1 and P2 resolution times and backed 8+ system upgrades on schedule.
 
 **[Data Integration Pipeline, EMICO Norway](https://github.com/varshaashis-blip)** &nbsp;·&nbsp; <samp>Mulesoft, Oracle, SQL, XML, CSV</samp><br>
-Automated pipelines that load CSV, XLS and XML attachments into Oracle for a procurement platform.Delivered on schedule across Norwegian and Indian time zones over a 15-month engagement.
+Automated pipelines that load CSV, XLS and XML attachments into Oracle for a procurement platform. Delivered on schedule across Norwegian and Indian time zones over a 15-month engagement.
 
 ## 💻 Tech Stack
 
