@@ -2,7 +2,7 @@
 
 <img src="./ascii-face-2.svg" width="460" alt="Varsha Lalam"/>
 
-**Varsha Lalam** &nbsp;·&nbsp; <samp>it project manager · pharma & lifescience delivery</samp>
+**Varsha Lalam** &nbsp;·&nbsp; <samp>It Project Manager · Pharma & Lifescience delivery</samp>
 
 *keeping dev, qa, and ops moving in the same direction so nothing falls through the cracks*
 
@@ -11,32 +11,25 @@
 </div>
 
 <div align="center">
-<img src="./hd-about.svg" width="620" alt="about"/>
+<img src="./hd-about.svg" width="620" alt="About"/>
 </div>
 
 <blockquote>
-IT Project Manager and Release Delivery professional with 10 years in regulated pharmaceutical environments.<br>
-Structure and transparency are not overhead, they are how delivery actually works.
+IT Project Manager and Release Delivery professional with 10 years in regulated pharmaceutical environments. Structure and transparency are not overhead, they are how delivery actually works.
 </blockquote>
 
-Currently moving from in-house pharma IT delivery into enterprise<br>
-software consulting, with a focus on GxP-compliant system<br>
-implementations in life sciences. At Optel Group I owned the full release<br>
-lifecycle of [serialization middleware](https://github.com/varshaashis-blip) for global pharma clients across<br>
-EMEA and APAC. PRINCE2® Agile Practitioner certified, and now deepening<br>
-my work in validation frameworks and SaaS delivery in regulated environments.
+Currently moving from in-house pharma IT delivery into enterprise software consulting, with a focus on GxP-compliant system implementations in life sciences. At Optel Group, I owned the full release<br>
+lifecycle of [serialization middleware](https://github.com/varshaashis-blip) for global pharma clients across EMEA and APAC. PRINCE2® Agile Practitioner certified, and now deepening my work in validation frameworks and SaaS delivery in regulated environments.
 
 <div align="center">
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 </div>
 
-**[Serialization Middleware Delivery, Optel Group](https://github.com/varshaashis-blip)** &nbsp;·&nbsp; <samp>python, powershell, yaml, jira, confluence, servicenow</samp><br>
-End-to-end release management for GxP-compliant serialization middleware across global<br>
-pharma clients. 30+ governed production releases, zero major post-release incidents in five years.
+**[Serialization Middleware Delivery, Optel Group](https://github.com/varshaashis-blip)** &nbsp;·&nbsp; < samp> Python, PowerShell, YAML, JIRA, Confluence, Servicenow</samp><br>
+End-to-end release management for GxP-compliant serialization middleware across global pharma clients. 30+ governed production releases, zero major post-release incidents in five years.
 
-**[Data Integration Pipeline, EMICO Norway](https://github.com/varshaashis-blip)** &nbsp;·&nbsp; <samp>mulesoft, oracle, sql, xml, csv</samp><br>
-Automated data infrastructure integration for a Norway-based procurement platform,<br>
-enabling near-real-time reporting across cross-timezone stakeholder teams.
+**[Data Integration Pipeline, EMICO Norway](https://github.com/varshaashis-blip)** &nbsp;·&nbsp; <samp>Mulesoft, Oracle, SQL, XML, CSV</samp><br>
+Automated data infrastructure integration for a Norway-based procurement platform, enabling near-real-time reporting across cross-timezone stakeholder teams.
 
 ## 💻 Tech Stack
 
