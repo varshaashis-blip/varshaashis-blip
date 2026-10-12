@@ -4,9 +4,9 @@
 
 **Varsha Lalam** &nbsp;·&nbsp; <samp>It Project Manager · Pharma & Lifescience delivery</samp>
 
-*keeping dev, qa, and ops moving in the same direction so nothing falls through the cracks*
+*Keeping DEV, QA, and Ops moving in the same direction so nothing falls through the cracks*
 
-[linkedin](https://www.linkedin.com/in/varsha-lalam-92b243175) &nbsp;·&nbsp; [email](mailto:varsha.ashis@gmail.com)
+[Linkedin](https://www.linkedin.com/in/varsha-lalam-92b243175) &nbsp;·&nbsp; [Email](mailto:varsha.ashis@gmail.com)
 
 </div>
 
@@ -22,7 +22,7 @@ Currently moving from in-house pharma IT delivery into enterprise software consu
 lifecycle of [serialization middleware](https://github.com/varshaashis-blip) for global pharma clients across EMEA and APAC. PRINCE2® Agile Practitioner certified, and now deepening my work in validation frameworks and SaaS delivery in regulated environments.
 
 <div align="center">
-<img src="./hd-projects.svg" width="620" alt="projects"/>
+<img src="./hd-projects.svg" width="620" alt="Projects"/>
 </div>
 
 **[Serialization Middleware Delivery, Optel Group](https://github.com/varshaashis-blip)** &nbsp;·&nbsp; < samp> Python, PowerShell, YAML, JIRA, Confluence, Servicenow</samp><br>
