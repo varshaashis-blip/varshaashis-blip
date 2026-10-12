@@ -18,7 +18,7 @@
 IT Project Manager and Release Manager with 10 years in regulated pharmaceutical environments. Structure and transparency are not overhead, they are how delivery actually works.
 </blockquote>
 
-At Optel Group, I owned the full release lifecycle of [serialisation middleware](https://github.com/varshaashis-blip) across cloud and on-premises environments, running change management boards, ITIL-aligned incident governance and SLA compliance for pharma clients across EMEA and APAC, including Roche, Teva, Almac and Thermo Fisher Scientific. Previously, 2.5 years in enterprise application delivery for Pfizer at Infosys. PRINCE2 Agile Practitioner (June 2026), based in Limerick and available immediately.
+At Optel Group, I owned the full release lifecycle of [serialisation middleware](https://github.com/varshaashis-blip) across cloud and on-premises environments, running change management boards, ITIL-aligned incident governance and SLA compliance for pharma clients across EMEA and APAC, including Roche, Teva, Almac and Thermo Fisher Scientific. Previously, 2.5 years in enterprise application delivery for Pfizer at Infosys. PRINCE2 Agile Practitioner (June 2026).
 
 <div align="center">
 <img src="./hd-projects-2.svg" width="620" alt="Projects"/>
