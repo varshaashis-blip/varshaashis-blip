@@ -2,7 +2,7 @@
 
 <img src="./ascii-face-2.svg" width="460" alt="Varsha Lalam"/>
 
-**Varsha Lalam** &nbsp;·&nbsp; <samp>It Project Manager · Pharma & Lifescience delivery</samp>
+**Varsha Lalam** &nbsp;·&nbsp; <samp>IT Project Manager · Release & Service Delivery · Pharma</samp>
 
 *Keeping DEV, QA, and Ops moving in the same direction so nothing falls through the cracks*
 
@@ -15,25 +15,43 @@
 </div>
 
 <blockquote>
-IT Project Manager and Release Delivery professional with 10 years in regulated pharmaceutical environments. Structure and transparency are not overhead, they are how delivery actually works.
+IT Project Manager and Release Manager with 10 years in regulated pharmaceutical environments. Structure and transparency are not overhead, they are how delivery actually works.
 </blockquote>
 
-Currently moving from in-house pharma IT delivery into enterprise software consulting, with a focus on GxP-compliant system implementations in life sciences. At Optel Group, I owned the full release<br>
-lifecycle of [serialization middleware](https://github.com/varshaashis-blip) for global pharma clients across EMEA and APAC. PRINCE2® Agile Practitioner certified, and now deepening my work in validation frameworks and SaaS delivery in regulated environments.
+At Optel Group, I owned the full release lifecycle of [serialisation middleware](https://github.com/varshaashis-blip) across cloud and on-premises environments, running change management boards, ITIL-aligned incident governance and SLA compliance for pharma clients across EMEA and APAC, including Roche, Teva, Almac and Thermo Fisher Scientific. Previously, 2.5 years in enterprise application delivery for Pfizer at Infosys. PRINCE2 Agile Practitioner (June 2026), based in Limerick and available immediately.
 
 <div align="center">
 <img src="./hd-projects-2.svg" width="620" alt="Projects"/>
 </div>
 
-**[Serialization Middleware Delivery, Optel Group](https://github.com/varshaashis-blip)** &nbsp;·&nbsp; < samp> Python, PowerShell, YAML, JIRA, Confluence, Servicenow</samp><br>
-End-to-end release management for GxP-compliant serialization middleware across global pharma clients. 30+ governed production releases, zero major post-release incidents in five years.
+**[Serialisation Middleware Delivery, Optel Group](https://github.com/varshaashis-blip)** &nbsp;·&nbsp; <samp>Python, PowerShell, YAML, Jira, ServiceNow, Grafana, Prometheus</samp><br>
+Owned releases for GxP-compliant serialisation middleware across global pharma clients.30+ governed production releases, zero major post-release incidents in five years.
+
+**[Application Delivery Support, Pfizer (Infosys)](https://github.com/varshaashis-blip)** &nbsp;·&nbsp; <samp>Incident Management, L1 to L3 support, SLA Governance, Release Support</samp><br>
+Release and service support for 15+ business-critical applications in a global pharma setting.Led L3 triage to cut P1 and P2 resolution times and backed 8+ system upgrades on schedule.
 
 **[Data Integration Pipeline, EMICO Norway](https://github.com/varshaashis-blip)** &nbsp;·&nbsp; <samp>Mulesoft, Oracle, SQL, XML, CSV</samp><br>
-Automated data infrastructure integration for a Norway-based procurement platform, enabling near-real-time reporting across cross-timezone stakeholder teams.
+Automated pipelines that load CSV, XLS and XML attachments into Oracle for a procurement platform.Delivered on schedule across Norwegian and Indian time zones over a 15-month engagement.
 
 ## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+**PM & Release**<br/>
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) ![MS Project](https://img.shields.io/badge/MS_Project-31752F?style=for-the-badge) ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+**Methodologies**<br/>
+![PRINCE2 Agile](https://img.shields.io/badge/PRINCE2_Agile-6D2077?style=for-the-badge) ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge) ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge) ![Kanban](https://img.shields.io/badge/Kanban-00875A?style=for-the-badge) ![ITIL](https://img.shields.io/badge/ITIL-E4002B?style=for-the-badge) ![SDLC](https://img.shields.io/badge/SDLC-455A64?style=for-the-badge) ![Change Management](https://img.shields.io/badge/Change_Management-FF8B00?style=for-the-badge)
+
+**Cloud & Infra**<br/>
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge) ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416B?style=for-the-badge&logo=virtualbox&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
+
+**Monitoring**<br/>
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Apache Logs](https://img.shields.io/badge/Apache_Logs-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+**Scripting & Data**<br/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MuleSoft](https://img.shields.io/badge/MuleSoft-00A0DF?style=for-the-badge&logo=mulesoft&logoColor=white)
+
+**OS & Systems**<br/>
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge) ![Exchange Admin](https://img.shields.io/badge/Exchange_Admin-0078D4?style=for-the-badge) ![Citrix](https://img.shields.io/badge/Citrix-452170?style=for-the-badge&logo=citrix&logoColor=white)
 
 ## 📊 GitHub Stats
 
