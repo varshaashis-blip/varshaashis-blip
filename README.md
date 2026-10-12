@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ascii-face.svg" width="460" alt="Varsha Lalam"/>
+<img src="./ascii-face-2.svg" width="460" alt="Varsha Lalam"/>
 
 **Varsha Lalam** &nbsp;·&nbsp; <samp>it project manager · pharma & lifescience delivery</samp>
 
